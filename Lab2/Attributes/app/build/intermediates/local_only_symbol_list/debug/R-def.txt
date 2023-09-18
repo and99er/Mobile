@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Edit_text_id
+id black_text_id
+id linearLayout2
+id linearLayout3
+id linearLayout4
+id red_text_id
+id size24
+id size8
+id white_background_id
+id yellow_background_id
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string black_text
+string rex_text
+string size24sp
+string size8sp
+string white_background
+string yellow_background
+style Theme.Attributes
+xml backup_rules
+xml data_extraction_rules
