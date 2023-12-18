@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternetTest</string>
+    <string name="Button">Get via HTTP</string>
+</resources>
